@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi <img width="45" src="waving_hand.gif">, I'm Fares Abanmy </h1>
-<h3 align="center">A Data Scientist, interested in NLP and Image processing from Saudi Arabia
+<h3 align="center">A Junior Data Scientist, interested in NLP and Image processing from Saudi Arabia
 <p align="center">
  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
