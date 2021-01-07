@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 # Reach me
 - 💬 Ask me about **anything**
--  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [abanmyf@gmail.com](mailto:abanmyfares@gmail.com)
+-  <img src="https://img.icons8.com/color/48/000000/email.png" alt="git" width="20" height="20"/> [abanmyfares@gmail.com](mailto:abanmyfares@gmail.com)
 - <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="git" width="20" height="20"/> LinkedIn [@abanmyf](https://www.linkedin.com/in/fares-abanmy-b46a6317a/)
 
